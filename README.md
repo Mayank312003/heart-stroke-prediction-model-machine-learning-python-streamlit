@@ -120,7 +120,7 @@ heart-stroke-prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/heart-stroke-prediction.git
+   git clone https://github.com/Mayank312003/heart-stroke-prediction-machine-learning-python-streamlit.git
    cd heart-stroke-prediction
    ```
 
