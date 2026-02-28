@@ -6,7 +6,7 @@ A machine learning-powered web application that predicts a user's risk of heart 
 
 ## 📌 Project Overview
 
-Heart disease is one of the leading causes of death worldwide. Early detection of stroke risk can save lives. This project builds an end-to-end ML pipeline — from raw data analysis to a deployed interactive web application — that allows individuals to input their health details and instantly receive a risk assessment.
+Heart disease is one of the leading causes of death worldwide. Early detection of stroke risk can save lives. This project builds an end-to-end ML pipeline - from raw data analysis to a deployed interactive web application - that allows individuals to input their health details and instantly receive a risk assessment.
 
 ---
 
