@@ -171,5 +171,6 @@ This application is intended for **educational purposes only** and should not be
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Mayank Yadav**  
+**Aspiring Data Scientist | Machine Learning Engineer | Data Analyst**
+[GitHub](https://github.com/Mayank312003) | [LinkedIn](https://linkedin.com/in/mayankyadav1001/)
