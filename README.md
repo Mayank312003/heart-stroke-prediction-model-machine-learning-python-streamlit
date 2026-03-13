@@ -81,6 +81,16 @@ joblib.dump(columns, 'columns.pkl')
 - Built an interactive frontend with input widgets (sliders, dropdowns, number inputs)
 - Displays prediction result with color-coded risk alerts
 
+**Demo 1:**
+
+<img width="1903" height="1023" alt="ss1" src="https://github.com/user-attachments/assets/60088aac-b97a-470f-bb32-30d912d83915" />
+<img width="1917" height="1026" alt="ss2" src="https://github.com/user-attachments/assets/7b8e10c2-7d05-4171-b685-f463c544b958" />
+
+**Demo 2:**
+
+<img width="1915" height="1025" alt="ss3" src="https://github.com/user-attachments/assets/95338794-2bf1-48dd-95ca-1b6f6d1eeb03" />
+<img width="1916" height="1027" alt="ss4" src="https://github.com/user-attachments/assets/b2e66c74-a763-4db0-8792-132f4d0e411c" />
+
 ---
 
 ## 🛠️ Tech Stack
